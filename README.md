@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/blackard967u" target="_blank">
+  <a href="www.linkedin.com/in/angel-jahir-ocaña-argüelles" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tuemail@ejemplo.com">
+  <a href="mailto:anjaocar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Blackard967u" target="_blank">
@@ -22,9 +22,8 @@
 
 ### Acerca de mi
 
-- 🔭 Actualmente trabajando en proyectos con **Java / Spring Boot** y **PHP / Laravel**
+- 🔭 Actualmente trabajando en proyectos con **Java / Spring Boot** y **OpenText Content Server**
 - 💼 Experiencia con bases de datos **Oracle** y **MySQL**
-- 🎨 Interfaces dinámicas con **Vue.js**
 - 🌱 Siempre explorando nuevas herramientas y buenas prácticas de desarrollo
 - 💬 Pregúntame sobre backend, APIs REST, arquitectura de software o bases de datos
 - ⚡ Me encantan los videojuegos
